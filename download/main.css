@@ -1,0 +1,98 @@
+main {
+
+width: 95%;
+margin: auto;
+}
+
+
+.wid30 {
+height: 300px;
+width:30% ;
+float: left;
+
+margin-top: 100px;
+}
+
+.info40 {
+height: 300px;
+width: 40%;
+float: left;
+background: white;
+border: 2px solid black;
+margin-top: 140px;
+}
+
+
+.img {
+padding-top: 5px;
+width: 70px;
+height: 70px;
+float: left;
+}
+
+h1 {
+
+    font-family: 'Nunito', sans-serif;
+    margin-left: 90px;
+float: left;
+
+}
+
+
+.aa {
+
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    font-size: x-large;
+    border: 1px solid #000;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        margin-left:140px ;
+        width: 166px;
+        background-image: url(blue.jpg);
+        text-align: center;
+        color: #fff;
+        float: left;
+    margin-top: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    
+    body {
+    
+    background-color: #5a575796;
+    
+    }
+    
+    
+    
+    header {
+    
+    width: 95%;
+    height: 100px;
+    
+    margin: auto;
+    }
+    
+    
+    
+    .header1 {
+    
+    width: 100%;
+    height: 60px;
+    background: black;
+    }
+    
+    .header2 {
+    width: 100%;
+    height: 40px;
+    background-image: url(blue.jpg);
+    }
+    
+    .header2 li {
+        display: inline-block;
+        padding: 0px 2%;
+        text-transform: uppercase;
+        
+    }
+    .header2 li a {
+        font-family: 'Nunito', sans-serif;
+    
+        text-decoration: none;
+        color: white;
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: .13rem;
+    }
+    .header2 ul {
+    padding-top: 10px;
+    padding-left:45%;
+    }
+    .header2 li a:hover {
+    
+    color: red;
+    text-decoration: underline;
+    
+    }
+    
+    .hr {
+    display: inline-block ;
+    height: 58px;
+    background: white;
+    margin-left: 10px;
+    
+    
+    }
+    
+    .logo {
+    margin-left: 20px;
+    width: 100px;
+    height: 60px;
+    float: left;
+    }
+    
+    .span {
+    
+    color: white;
+    position: relative;
+    bottom: 60%;
+    font-family: 'Karla', sans-serif;
+    }
+    
+    .float-right {
+    
+    width:4% ;
+    float: right;
+    background: black;
+    height: 60px;
+    margin-left: 2%;
+    
+    }
+    
+    .active {
+    color: red;
+    
+    }
+    
+    .fa-discord {
+    
+    width: 20px;
+    height: 60px;
+    }
